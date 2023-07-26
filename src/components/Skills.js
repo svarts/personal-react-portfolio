@@ -30,7 +30,7 @@ export default function Skills() {
         infinite: true,
         slidesToShow: 2,
         slidesToScroll: 1
-      };
+    };
 
     return (
         <div id="skills" className="mt-4 text-white">
