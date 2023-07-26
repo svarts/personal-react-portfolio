@@ -28,7 +28,7 @@ export default function Hiro () {
                     <h1 className="text-3xl font-extrabold bg-gradient-to-r from-amber-200 via-pink-200 to-indigo-400 inline-block text-transparent bg-clip-text">Hi, I'm</h1>
                     <h1 className="text-4xl font-bold bg-gradient-to-r from-amber-200 via-pink-200 to-indigo-400 inline-block text-transparent bg-clip-text">Esma Karaca</h1>
                     <p class="text-2xl font-bold bg-gradient-to-r from-amber-200 via-pink-200 to-indigo-400 inline-block text-transparent bg-clip-text mb-5">Software Developer</p>
-                    <p className="text-xl font-light bg-gradient-to-r from-amber-200 via-pink-200 to-indigo-400 inline-block text-transparent bg-clip-text mb-5">I'm highly skilled software developer. Proficient in a wide range of programming languages and frameworks, I have a strong passion for creating robust, scalable, and user-friendly applications. My solid understanding of software development lifecycle and best practices allows me to consistently deliver high-quality code and meet project deadlines.</p>
+                    <p className="text-xl font-light bg-gradient-to-r from-amber-200 via-pink-200 to-indigo-400 inline-block text-transparent bg-clip-text mb-5">I'm proficient in a wide range of programming languages and frameworks, I have a strong passion for creating robust, scalable, and user-friendly applications. My solid understanding of software development lifecycle and best practices allows me to consistently deliver high-quality code and meet project deadlines.</p>
                 </div>
                 <a href='' className='mt-2 block '>Reach me <FontAwesomeIcon className='ml-2' icon={faCircleArrowRight}/> </a>
                 
