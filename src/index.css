@@ -11,6 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: #0c0c13;
   background-color: #0c0c13;
+  color: #111027;
 }
 
 code {
@@ -24,4 +25,12 @@ code {
   backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
   border: 1px solid #ffffff08;
+}
+
+.shadow:hover{
+  box-shadow: #fff70055 0px 7px 29px 0px;
+}
+
+.text-shadow:hover{
+  text-shadow: #fff1b8 1px 0 10px;
 }

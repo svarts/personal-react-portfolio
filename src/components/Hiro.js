@@ -1,10 +1,9 @@
-import {useState} from 'react'
-
+import {useState} from 'react';
 import profileText from '../assets/profileText.svg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCircleArrowRight } from "@fortawesome/free-solid-svg-icons";
 import { faGithub, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
-import hr from '../assets/curve-hr.svg'
+import hr from '../assets/curve-hr.svg';
 
 export default function Hiro () {
 
