@@ -7,7 +7,6 @@ export default function CertCard(props){
                 <h1 className="font-bold md:text-xl">{props.name}</h1>
                 <p className="font-light md:text-lg">Issued by {props.issued}</p>
                 <p className="font-light text-gray-400">{props.desc}</p>
-
                 <p className="font-light text-gray-400">{props.date}</p>
             </div>
         </div>
