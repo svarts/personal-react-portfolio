@@ -1,5 +1,4 @@
 import logo from '../assets/logo.png';
-import resume from "../assets/resume.pdf"
 
 export default function Navbar() {
     return (
@@ -12,7 +11,7 @@ export default function Navbar() {
             <li className="p-4"><a href="#honors" className="text-shadow">Honor & Awards</a></li>
             <li className="p-4"><a href="#certs" className="text-shadow">Certfications</a></li>
             </ul>
-            <a href={resume} rel="noreferrer" target="_blank" className="rounded-full px-4 py-1 border border-yellow-400 border border-4 shadow">Contact Me!</a>
+            <a href='https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=resmakaraca@gmail.com' rel="noreferrer" target="_blank" className="rounded-full px-4 py-1 border border-yellow-400 border border-4 shadow">Contact Me!</a>
         </div>
     </div>
     )
