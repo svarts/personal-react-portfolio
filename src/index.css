@@ -34,3 +34,9 @@ code {
 .text-shadow:hover{
   text-shadow: #fff1b8 1px 0 10px;
 }
+
+@media (min-width: 640px) {
+  .sm:mt-5 {
+    margin-top: 1.5rem;
+  }
+}
